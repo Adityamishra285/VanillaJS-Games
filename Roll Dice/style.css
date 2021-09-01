@@ -1,0 +1,46 @@
+#bodyDiv{
+    width: 100%;
+  margin: auto;
+  margin-top: 70px;
+  text-align: center;
+}
+
+.playerDiv{
+    display: inline-block;
+    text-align: center;
+    margin: 20px;
+}
+
+#btn {
+  background-color: rgb(255, 119, 85);
+  border-radius: 6px;
+  border: none;
+  color: rgb(255, 255, 255);
+  padding: 10px;
+  text-transform: uppercase;
+  width: 200px;
+  cursor: pointer;
+  margin: auto;
+}
+
+body {
+  background-color: #393E46;
+}
+
+#h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ECCA3;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 100%;
+}
